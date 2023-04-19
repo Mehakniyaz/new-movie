@@ -1,0 +1,24 @@
+.header i{
+    font-size: 2rem;
+    color:white;
+    /* position :absolute;
+    top:30px; */
+    margin-right: 1em;
+  
+}
+.header{
+    display:flex;
+    /* border: 1px solid red; */
+    align-items: center;
+}
+.search input[type='search'] {
+    width: 100% !important;
+    max-width: 80%;
+    padding: 0.5em 2em;
+    background-color: #ffffff;
+    color: #898F9C;
+    /* border: 1px solid red; */
+    text-align: center;
+    font-size: 1.5rem;
+  }
+  
